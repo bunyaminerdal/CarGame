@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b54d07439c762541be4fdc1dd81984c, type: 3}
+  m_Name: FinishSection
+  m_EditorClassIdentifier: 
+  sectionName: finish
+  section: {fileID: 8966861901410318421, guid: f4c01c603ba8c2c499b31b3be16e1307, type: 3}
+  sectionLength: 40
+  spawnerType: 3
+  spawnTime: 0
+  move: {fileID: 0}
+  speed: 0
+  availableSections:
+  - {fileID: 11400000, guid: b8ce18d62fdb90a4aa0e5dc08e06123a, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b54d07439c762541be4fdc1dd81984c, type: 3}
+  m_Name: Section1
+  m_EditorClassIdentifier: 
+  sectionName: 1
+  section: {fileID: 3839048764746729909, guid: 6439c96839bf19a43b5cd8e5c0ea5bfc, type: 3}
+  sectionLength: 12
+  spawnerType: 2
+  spawnTime: 2
+  move: {fileID: 8497993802761553827, guid: 7f0ac58bbd41c81489eb652f681ef5e5, type: 3}
+  speed: 10
+  availableSections:
+  - {fileID: 11400000, guid: bbba0c66433adc5478367eb0cf81d834, type: 2}
+  - {fileID: 11400000, guid: 8e1f740831f92984d9389fa516c7e618, type: 2}
+  - {fileID: 11400000, guid: 0a7c17fd6f2ccf74c85ac055e070abbd, type: 2}
